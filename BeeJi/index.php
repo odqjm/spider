@@ -15,7 +15,7 @@ while ($go--) {
     sleep(1);
 }
 
-// TODO 需要获取下载文件的信息, 报错我猜是后缀对不上, 格式不一致导致的.
+// TODO 需要获取下载文件的信息, 报错是后缀对不上, 格式不一致导致的.
 
 # 额外的接口
 # https://www.doutula.com/api/search?keyword=金馆长&mime=0&page=2

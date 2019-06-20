@@ -9,3 +9,4 @@ package-lock.json
 *.gif
 
 _config.php
+vendor
